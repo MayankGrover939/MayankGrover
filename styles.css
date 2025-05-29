@@ -1,0 +1,62 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #0a0a0a; /* Dark background */
+  color: #e0e0e0; /* Light text for contrast */
+  line-height: 1.6;
+}
+
+header {
+  background-color: #001f3f; /* Navy Blue */
+  padding: 40px 20px;
+  text-align: center;
+  color: #ffffff;
+}
+
+header h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+
+header .website {
+  color: #aaaaaa;
+}
+
+section {
+  padding: 40px 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+h2 {
+  color: #1e90ff; /* Dodger Blue */
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+ol {
+  padding-left: 20px;
+}
+
+.project {
+  margin-bottom: 30px;
+  padding: 15px;
+  border-left: 4px solid #1e90ff;
+  background-color: #111111; /* Darker project card */
+}
+
+.project h3 {
+  color: #1e90ff;
+}
+
+.contact p {
+  margin: 5px 0;
+}
+
+footer {
+  background-color: #001f3f;
+  text-align: center;
+  padding: 20px;
+  color: #aaaaaa;
+}
